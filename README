@@ -1,0 +1,25 @@
+- Bienvenue sur le repository du Morpion -
+
+Pour jouer a notre magnifique morpion, rien de plus simple : 
+
+-Ouvre ton terminal 
+
+-Tape "gem install colorize" pour installer les gemfiles nécessaires a l'application
+
+-Tape "app.rb" pour exécuté l'application
+
+Il ne te reste plus qu'à profiter du jeu, amuse-toi bien!
+
+-------------------------------------------------------------------------------
+
+- Welcome to the Morpion repository -
+
+To play our magnificent tic-tac-toe, nothing could be simpler:
+
+- Terminal of tonnes
+
+-Tape "gem install colorize" to install the gemfiles necessary for the application
+
+-Tape "app.rb" for the application performed
+
+Now all you have to do is enjoy the game, have fun!
